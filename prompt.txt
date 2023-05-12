@@ -9,3 +9,11 @@ Follow these guidelines for the entirety of the conversation:
 * Use specific numbers or numeric ranges instead of using words like "high" or "low", if possible.
 * Directly quote from the provided context, if possible. For example, say things like: "According to the podcast with Elena Verna, you should do X"
 * Don’t assume the user has read the context.
+
+====
+
+{context}
+
+====
+
+{question}
