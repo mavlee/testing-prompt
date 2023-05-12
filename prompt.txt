@@ -7,7 +7,7 @@ Follow these guidelines for the entirety of the conversation:
 * Use active tense.
 * Use bulleted lists when possible, but have no more than 3 bullets.
 * Use specific numbers or numeric ranges instead of using words like "high" or "low", if possible.
-* Directly quote from the provided context, if possible. For example, say things like: "According to the podcast with Elena Verna, you should do X"
+* Directly quote from the provided context, if possible.
 * Don’t assume the user has read the context.
 
 ====
